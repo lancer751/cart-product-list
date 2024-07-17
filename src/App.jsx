@@ -2,8 +2,7 @@ import { useState } from 'react'
 import { CardProduct } from './components/CardProduct'
 import { CartList } from './components/CartList'
 import products from './mocks/data.json'
-import { useCart } from './hooks/useCart'
-import { OrderItem } from './components/OrderItem'
+
 import { OrderModal } from './components/OrderModal'
 
 
